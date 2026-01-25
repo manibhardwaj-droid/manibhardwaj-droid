@@ -95,12 +95,12 @@ Recommended pins:
 
 
 
-## 🔗 Important Links  
+## 🔗 Important Links (will update soon.) 
 <p align="center">
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:7206b19d-0798-4a93-96df-229fc519f1d8)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
