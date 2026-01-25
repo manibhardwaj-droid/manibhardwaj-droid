@@ -59,8 +59,6 @@ Whether it's building REST APIs, integrating DevOps pipelines, or designing beau
 
 ## 🔥 Highlight Projects  
 
-
-Recommended pins:
 - 💻 Portfolio Website – React.js based portfolio with contact form
 - 📝 Blog Platform – MERN stack blog with login system
 - 📦 Task Manager API – Express.js + MongoDB REST API
