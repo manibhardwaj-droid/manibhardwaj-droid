@@ -59,7 +59,6 @@ Whether it's building REST APIs, integrating DevOps pipelines, or designing beau
 
 ## 🔥 Highlight Projects  
 
-> ⭐ _Pin your best repositories on your GitHub profile manually._
 
 Recommended pins:
 - 💻 Portfolio Website – React.js based portfolio with contact form
