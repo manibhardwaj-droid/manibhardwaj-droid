@@ -86,7 +86,7 @@ Whether it's building REST APIs, integrating DevOps pipelines, or designing beau
 - 🤝 Freelance collaboration
 - 🚀 Tech content creation
 
-📧 **manibhardwaj2006@gmail.com**  
+📧 **manimishra2006@gmail.com**  
 📍 India
 
 ---
