@@ -4,7 +4,7 @@
 <p align="center">
   🎓 <strong> CS Undergrad </strong><br/>
   👨‍💻 I build responsive, scalable, and user-friendly web sites<br/>
-  📫 Reach me at: <strong>manibhardwaj2006@gmail.com</strong><br/>
+  📫 Reach me at: <strong>manimishra2006@gmail.com</strong><br/>
 </p>
 
 ---
