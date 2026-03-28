@@ -98,7 +98,7 @@ I'm open to:
 <a href="https://portfolio-website-mani.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
- <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:db1036cb-829f-49d1-a3aa-3ae928f6f82c" target="_blank">
+ <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:ee4c1ad2-ce1d-423c-9603-27654487152e" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white"/>
 </a>
 </p>
